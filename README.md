@@ -1,0 +1,2 @@
+# News-Classifier
+This project looks specifically at the task of automatically classifying newspaper articles from the newspaper .Newspaper has archives of a large number of articles which require classification intospecific sections (Business,Sports,World etc.). Our project is aimed at investigating and implementing techniques which can be used to perform automatic article classification for this purpose. Language- Java ( JFreeChart , WordNet , Netbeans , Stanford NLP Pos Tagger)
