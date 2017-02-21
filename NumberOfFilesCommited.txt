@@ -1,0 +1,9 @@
+entertainment all
+sports:-5
+polotical
+heap error at 317,925+3.. in polotical1
+551-924  political1 
+rest all from polotical1
+
+
+327-500 from polotical forlder
